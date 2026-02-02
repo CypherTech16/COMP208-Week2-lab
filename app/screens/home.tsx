@@ -1,3 +1,4 @@
+// Kushal Patel - Home Screen
 import {View, Text, Button, Image, StyleSheet } from 'react-native';
 import { useState } from 'react';
 
